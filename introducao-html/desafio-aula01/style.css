@@ -1,0 +1,15 @@
+body {
+    max-width: 600PX;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    list-style: none;
+
+}
+img {
+    max-width: 200px;
+}
+ol {
+    text-align: left;
+}
