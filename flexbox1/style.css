@@ -1,0 +1,34 @@
+ * {
+    margin: 0px;
+ }
+
+ .container {
+    display: flex;
+    gap: 20PX; 
+    background-color: gray;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .box {
+    width: 200px;
+    height: 200px;
+    
+ }
+ .red {
+    background-color: red;
+    border-radius: 10PX;
+    
+    
+
+ }
+ .black {
+    background-color: white;
+    border-radius: 10PX;
+    
+ }
+ .blue {
+    background-color: blue;
+    border-radius: 10PX;
+ }
