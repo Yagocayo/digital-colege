@@ -1,4 +1,4 @@
- * {
+* {
     margin: 0px;
  }
 
@@ -6,27 +6,30 @@
     display: flex;
     background-color: gray;
     height: 100vh;
-    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     
     
 
+ }
+ .coluna {
+    
  }
  .box {
     width: 200px;
     height: 200px;
     
-    
  }
+
  .red {
     background-color: red;
-    
-    
-    
 
  }
  .black {
     background-color: black;
-    align-self: flex-end;
     
-    
+ }
+
+ .yelow {
+    background-color: yellow;
  }
