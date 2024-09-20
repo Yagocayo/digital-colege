@@ -1,5 +1,6 @@
 * {
     margin: 0px;
+    padding: 0px;
  }
 
  .container {
@@ -12,17 +13,26 @@
     
 
  }
- .coluna {
-    
+ .bloco {
+   background: white;
+   padding: 40px;
+   width: 200px;
+   height: 700px;
+   gap: 20px;
+  
+   
  }
  .box {
     width: 200px;
     height: 200px;
+    margin-bottom: 60px;
+    
     
  }
 
  .red {
     background-color: red;
+    
 
  }
  .black {
